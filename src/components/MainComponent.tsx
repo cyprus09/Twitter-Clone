@@ -12,7 +12,7 @@ const getTweets = async () => {
 const MainComponent = () => {
 
 
-    
+
   return (
         <main className='flex w-full xl:w-[50%] h-full min-h-screen flex-col border-l-[0.5px] border-r-[0.5px] border-gray-400'>
             <h1 className='text-xl font-bold p-4 backdrop-blur bg-black/20 sticky top-0 z-10'>Home</h1>
@@ -31,7 +31,7 @@ const MainComponent = () => {
                             <div className='flex items-center my-1 w-full justify-between'>
                                 <div className='flex items-center space-x-1 w-full'>
                                 <div className='font-bold'>MayankPallai</div>
-                                <div className='text-gray-500'>@kadduuu</div>
+                                <div className='text-gray-500'>@mayank</div>
                                 <div className='text-gray-500'>
                                     <BsDot/>
                                 </div>
